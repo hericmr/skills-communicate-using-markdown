@@ -17,6 +17,13 @@ Você pode usar Markdown para formatar texto em diferentes estilos, como:
 
 ## Exemplos de uso
 
+Uso de codigo
+
+```
+$ git init
+print('hello worda')
+```
+
 ### Cabeçalhos
 
 Você pode adicionar cabeçalhos de diferentes níveis, usando o símbolo `#`:
