@@ -1,5 +1,7 @@
 # "Comunicar usando Markdown"! 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## O que é Markdown?
 
 Markdown é uma linguagem de marcação simples usada para formatar texto. Ele é amplamente utilizado em plataformas como o GitHub para criar documentos legíveis e bem estruturados sem a necessidade de HTML.
