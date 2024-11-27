@@ -1,6 +1,6 @@
 # "Comunicar usando Markdown"! 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://i.pinimg.com/236x/9d/98/40/9d98409a3e4d707bf811ce66913fd2a5.jpg)
 
 ## O que é Markdown?
 
