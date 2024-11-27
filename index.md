@@ -49,6 +49,26 @@ Você pode adicionar cabeçalhos de diferentes níveis, usando o símbolo `#`:
 2. Segundo item
 3. Terceiro item
 
+# Lista de Tarefas
+
+Aqui está uma lista de tarefas que você pode acompanhar enquanto trabalha no seu projeto!
+
+## Tarefas a Fazer
+
+- [ ] Configurar o GitHub Pages
+- [ ] Criar o esboço do meu portfólio
+- [ ] Me apresentar para o mundo
+
+## Tarefas Concluídas
+
+- [x] Adicionar código de exemplo ao arquivo
+- [x] Comitar as alterações no repositório
+
+### Progresso
+
+As caixas de seleção podem ser úteis para ver o progresso de tarefas em projetos colaborativos. Isso ajuda a manter todos na mesma página e facilita o acompanhamento do que está feito e o que ainda falta ser feito.
+
+
 ## Conclusão
 
 Markdown é uma maneira rápida e fácil de formatar texto para compartilhar conteúdo de maneira clara e legível, seja em comentários, arquivos ou até mesmo documentação técnica.
